@@ -5,7 +5,6 @@
     <link rel="stylesheet" href="stylesheet.css">
     <link rel="script.js" href="script.js">
     <meta charset="utf-8">
-    <title>number</title>
   </head>
   <body>
     <h1 class="title">HTML & CSS の開発環境を用意しよう！</h1>
